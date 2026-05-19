@@ -1,0 +1,13 @@
+# build artifacts
+dist/
+build/
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# private exports
+/private/
+/confidential/
