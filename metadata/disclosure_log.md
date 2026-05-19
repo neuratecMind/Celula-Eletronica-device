@@ -3,4 +3,4 @@
 - data de criação do repositório;
 - data de cada release;
 - principais itens publicados;
-- escopo;
+- escopo.
