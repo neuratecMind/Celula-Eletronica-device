@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240">
+  <rect x="30" y="80" width="150" height="70" rx="12" />
+  <rect x="210" y="80" width="150" height="70" rx="12" />
+  <rect x="390" y="80" width="150" height="70" rx="12" />
+  <rect x="570" y="80" width="150" height="70" rx="12" />
+  <text x="65" y="120">Entrada</text>
+  <text x="235" y="120">Processamento</text>
+  <text x="430" y="120">Resposta</text>
+  <text x="600" y="120">Comunicação</text>
+</svg>
