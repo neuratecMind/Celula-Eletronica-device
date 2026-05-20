@@ -5,6 +5,8 @@ São protegidos por direito autoral neste repositório:
 - diagramas originais;
 - organização documental;
 - código-fonte aqui publicado;
-- figuras e nomenclaturas autorais.
+- figuras e nomenclaturas autorais;
+- imagens publicadas;
+- grafos publicados.
 
 Não estão autorizadas cópias substanciais, redistribuição integral ou uso comercial sem permissão expressa.
