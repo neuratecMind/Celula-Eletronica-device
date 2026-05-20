@@ -1,0 +1,1 @@
+text.txt: este arquivo declara explicitamente a citaçao das pastas relacionadas a pasta "hardware".
