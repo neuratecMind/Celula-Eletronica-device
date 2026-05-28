@@ -8,3 +8,12 @@ Este material descreve:
 - princípios de rede;
 - princípios de energia e integridade;
 - documentação expressiva do projeto.
+
+## Purpose
+
+This repository serves as public evidence of:
+- Authorship of the device identity
+- Date of creation
+- First public disclosure
+- Continuous use intent
+- 
